@@ -1,0 +1,26 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Alignment",
+		"AutoFileName",
+		"BracketHighlighter",
+		"ColorPicker",
+		"Emmet",
+		"GhostText",
+		"GitHubinator",
+		"GitOpenChangedFiles",
+		"Gutter Color",
+		"SublimeGit",
+		"View In Browser",
+	],
+	"repositories":
+	[
+		"https://github.com/TaylorRL23/SwagLabs",
+		"https://github.com/TaylorRL23/SwagLabs.git",
+	],
+}
